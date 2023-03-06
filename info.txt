@@ -1,0 +1,3 @@
+for Multilanguage support
+npm install i18next --save
+npm i react-i18next
